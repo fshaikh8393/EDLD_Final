@@ -1,0 +1,5 @@
+"0","project_data%>%"
+"0","  slice(37:62)%>%"
+"0","  ggplot(aes(x=br3,y=gdp_bangladesh, size = women_bangladesh)) +"
+"0","  geom_point(alpha = .5)+"
+"0","  theme_minimal()"

@@ -1,0 +1,1 @@
+{"frames":[{"func":"ggplot(country_data, aes(x = x, y = y, fill = birth_rate, label = country))","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in ggplot(country_data, aes(x = x, y = y, fill = birth_rate, label = country)) : \n  object 'country_data' not found\n"}

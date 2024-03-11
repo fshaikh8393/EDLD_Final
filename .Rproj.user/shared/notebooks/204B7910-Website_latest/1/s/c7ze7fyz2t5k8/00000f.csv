@@ -1,0 +1,13 @@
+"0","ggplot(country_data, aes(x = x, y = y, fill = birth_rate, label = country)) +"
+"0","  geom_tile(size = 1, width = 0.8, height = 0.5) +  # Draw rectangles"
+"0","  geom_text(color = ""white"", vjust = 0.5) +  # Add country names"
+"0","  scale_fill_gradient(low = ""blue"", high = ""red"", guide = guide_colourbar(title = ""Birth Rate"")) +"
+"0","  theme_minimal() +"
+"0","  theme(axis.text = element_blank(), "
+"0","        axis.title = element_blank(),"
+"0","        axis.ticks = element_blank(),"
+"0","        legend.position = ""bottom"") +"
+"0","  labs(title = ""Birth Rate in South Asia"", fill = ""Birth Rate"")"
+"2","Error in ggplot(country_data, aes(x = x, y = y, fill = birth_rate, label = country)) : 
+  object 'country_data' not found
+"

@@ -1,0 +1,1 @@
+{"frames":[],"message":"Error: Incomplete expression: project_data<-import(here(\"data\",\"Final_project_data.csv\")) %>%\n  clean_names()%>%\n  \n  \n"}

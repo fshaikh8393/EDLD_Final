@@ -1,0 +1,6 @@
+"0","project_data %>%"
+"0","  slice(37:62) %>%"
+"0","  ggplot(aes(x=br3, y=gdp_bangladesh, size = women_bangladesh)) +"
+"0","  geom_point(color = ""orange"", alpha = 0.5) +  # Color added here"
+"0","  theme_minimal() +"
+"0","  theme(legend.position = ""right"")  # Show the legend to interpret the size scale"

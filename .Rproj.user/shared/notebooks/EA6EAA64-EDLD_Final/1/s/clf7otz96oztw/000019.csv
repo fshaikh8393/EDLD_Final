@@ -1,0 +1,5 @@
+"0","project_data%>%"
+"0","  slice(37:62)%>%"
+"0","  ggplot(aes(x=br2,y=gdp_ind, size = women_india)) +"
+"0","  geom_point(alpha = .5)+"
+"0","  theme_minimal()"

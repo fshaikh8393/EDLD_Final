@@ -1,0 +1,9 @@
+"0","project_data<-import(here(""data"",""Final_project_data.csv"")) %>%"
+"0","  clean_names()%>%"
+"0","  "
+"0","  "
+"2","Error: Incomplete expression: project_data<-import(here(""data"",""Final_project_data.csv"")) %>%
+  clean_names()%>%
+  
+  
+"

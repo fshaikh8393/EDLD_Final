@@ -1,0 +1,59 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+require(flexdashboard)
+require(ggplot2)
+require(plotly)
+```
+
+Page 1
+===================================== 
+    
+Row {data-height=400}
+-----------------------------------------
+
+### Chart A {.no-padding}
+
+```{r}
+
+```
+
+Row {data-height=400}
+-----------------------------------------
+
+### Chart B {data-padding=20}
+
+```{r}
+
+```
+
+   
+Page 2
+=====================================     
+
+Row {data-height=400}
+-----------------------------------------
+
+### Chart C
+    
+```{r}
+```
+  
+Row {data-height=400}
+-----------------------------------------
+  
+### Chart D
+
+```{r}
+```
+
+### Chart E
+
+```{r}
+```
